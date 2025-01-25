@@ -1,10 +1,10 @@
 # Spotify-Dashboard-User-Music-Analysis
 
-Overview
+#Overview
 
 This project is a comprehensive analysis of Spotify user music data, visualized through an interactive dashboard. The dashboard provides key insights into a user's listening habits, preferences, and trends over time, allowing for a deeper understanding of their music consumption patterns.
 
-Features
+#Features
 
 •	Total Track Analysis: Displays the total number of tracks, unique URLs, artist names, album names, and total minutes played.
 
@@ -18,7 +18,7 @@ Features
 
 •	Interactive Filters: Users can filter data by year, platform, album, and artist for more granular insights.
 
-Tools and Technologies Use
+#Tools and Technologies Use
 
 •	Power BI: Creation of the interactive dashboard.
 
@@ -27,8 +27,7 @@ Tools and Technologies Use
 •	Power Query: Data preprocessing 
 
 
-Dataset Description
-
+#Dataset Description
 
 The dataset contains Spotify user data, including:
 •	Track names
@@ -46,7 +45,8 @@ The dataset contains Spotify user data, including:
 •	Listening dates
 
 
-Insights
+#Insights
+
 1.	Top Artists: The Beatles, The Killers, and John Mayer are among the top artists, indicating the user's musical preferences.
    
 3.	Listening Trends: Peak listening occurred in 2020, with over 55,000 minutes played.
@@ -56,6 +56,6 @@ Insights
 7.	Skips: Only 5% of tracks were skipped, suggesting the user listens to most songs fully.
 
    
-Conclusion
+#Conclusion
 
 This project provides a detailed exploration of Spotify user data, enabling users to understand their music preferences and listening habits in a visually appealing and interactive manner.
