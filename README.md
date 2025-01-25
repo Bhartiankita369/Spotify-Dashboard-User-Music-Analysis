@@ -48,13 +48,36 @@ The dataset contains Spotify user data, including:
 
 # Insights
 
-1.	Top Artists: The Beatles, The Killers, and John Mayer are among the top artists, indicating the user's musical preferences.
-   
-3.	Listening Trends: Peak listening occurred in 2020, with over 55,000 minutes played.
-	
-5.	Platform Usage: 93% of streams occurred on Android, showing a strong preference for mobile streaming.
-   
-7.	Skips: Only 5% of tracks were skipped, suggesting the user listens to most songs fully.
+•	Total Music Engagement:
+
+o	Tracks Played: 149.9K
+
+o	Minutes Played: 320.49K minutes
+
+o	Unique Artists: 4,112
+
+o	Unique Albums: 7,905
+
+•	Top Artists & Albums:
+
+o	The Beatles and The Killers are the most popular artists.
+
+o	Albums like The New Abnormal and Abbey Road dominate listening preferences.
+
+•	Streaming Trends by Year:
+
+o	Peaks in listening occurred in 2020 (55K minutes) and 2021 (54K minutes).
+
+o	A noticeable rise in engagement between 2016 and 2020.
+
+•	Skipped Tracks:
+
+o	Only 5% of tracks were skipped, showing high listening engagement.
+
+•	Platform Usage:
+
+o	Majority of streams were on Android (93%).
+
 
    
 # Conclusion
