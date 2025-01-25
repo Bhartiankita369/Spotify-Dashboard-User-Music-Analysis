@@ -49,32 +49,35 @@ The dataset contains Spotify user data, including:
 # Insights
 
 •	Total Music Engagement:
-	Tracks Played: 149.9K
-	Minutes Played: 320.49K minutes
 
-o	Unique Artists: 4,112
+Tracks Played: 149.9K
 
-o	Unique Albums: 7,905
+Minutes Played: 320.49K minutes
+
+Unique Artists: 4,112
+
+Unique Albums: 7,905
 
 •	Top Artists & Albums:
 
-o	The Beatles and The Killers are the most popular artists.
+The Beatles and The Killers are the most popular artists.
 
-o	Albums like The New Abnormal and Abbey Road dominate listening preferences.
+Albums like The New Abnormal and Abbey Road dominate listening preferences.
 
 •	Streaming Trends by Year:
 
-o	Peaks in listening occurred in 2020 (55K minutes) and 2021 (54K minutes).
+Peaks in listening occurred in 2020 (55K minutes) and 2021 (54K minutes).
 
-o	A noticeable rise in engagement between 2016 and 2020.
+A noticeable rise in engagement between 2016 and 2020.
 
 •	Skipped Tracks:
 
-o	Only 5% of tracks were skipped, showing high listening engagement.
+Only 5% of tracks were skipped, showing high listening engagement.
 
 •	Platform Usage:
 
-o	Majority of streams were on Android (93%).
+Majority of streams were on Android (93%).
+
 
 
    
