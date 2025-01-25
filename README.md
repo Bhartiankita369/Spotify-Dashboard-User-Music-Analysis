@@ -79,11 +79,13 @@ Platform Usage:
   Majority of streams were on Android (93%).
 
 
-# Conclusion
-
-This project provides a detailed exploration of Spotify user data, enabling users to understand their music preferences and listening habits in a visually appealing and interactive manner.
-
-
 
 ![image](https://github.com/user-attachments/assets/2093e432-89d7-4611-9a3e-88bed2ee762c)
+
+
+
+# Conclusion
+
+  This project provides a detailed exploration of Spotify user data, enabling users to understand their music preferences and listening habits in a visually appealing and interactive manner.
+
 
