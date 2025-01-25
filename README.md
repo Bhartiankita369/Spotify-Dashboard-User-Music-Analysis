@@ -30,6 +30,7 @@ This project is a comprehensive analysis of Spotify user music data, visualized 
 # Dataset Description
 
 The dataset contains Spotify user data, including:
+
 •	Track names
 
 •	Artists
