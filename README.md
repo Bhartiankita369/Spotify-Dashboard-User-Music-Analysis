@@ -49,10 +49,8 @@ The dataset contains Spotify user data, including:
 # Insights
 
 •	Total Music Engagement:
-
-o	Tracks Played: 149.9K
-
-o	Minutes Played: 320.49K minutes
+	Tracks Played: 149.9K
+	Minutes Played: 320.49K minutes
 
 o	Unique Artists: 4,112
 
