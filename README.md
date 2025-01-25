@@ -48,11 +48,11 @@ The dataset contains Spotify user data, including:
 
 Insights
 1.	Top Artists: The Beatles, The Killers, and John Mayer are among the top artists, indicating the user's musical preferences.
-2.	
+   
 3.	Listening Trends: Peak listening occurred in 2020, with over 55,000 minutes played.
-4.	
+	
 5.	Platform Usage: 93% of streams occurred on Android, showing a strong preference for mobile streaming.
-6.	
+   
 7.	Skips: Only 5% of tracks were skipped, suggesting the user listens to most songs fully.
 
    
