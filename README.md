@@ -27,28 +27,12 @@ This project is a comprehensive analysis of Spotify user music data, visualized 
 •	Power Query: Data preprocessing 
 
 
-# Dataset Description
 
-The dataset contains Spotify user data, including:
-
-•	Track names
-
-•	Artists
-
-•	Albums
-
-•	Minutes played
-
-•	Skipped status
-
-•	Platforms used
-
-•	Listening dates
 
 
 # Insights
 
-Total Music Engagement:
+#Total Music Engagement:
 
    Tracks Played: 149.9K
 
