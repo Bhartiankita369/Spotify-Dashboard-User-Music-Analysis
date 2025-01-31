@@ -42,13 +42,13 @@ This project is a comprehensive analysis of Spotify user music data, visualized 
 
    Unique Albums: 7,905
 
-Top Artists & Albums:
+# Top Artists & Albums:
 
    The Beatles and The Killers are the most popular artists.
 
    Albums like The New Abnormal and Abbey Road dominate listening preferences.
 
-Streaming Trends by Year:
+#Streaming Trends by Year:
 
    Peaks in listening occurred in 2020 (55K minutes) and 2021 (54K minutes).
 
