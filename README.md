@@ -32,7 +32,7 @@ This project is a comprehensive analysis of Spotify user music data, visualized 
 
 # Insights
 
-#Total Music Engagement:
+# Total Music Engagement:
 
    Tracks Played: 149.9K
 
@@ -48,17 +48,17 @@ This project is a comprehensive analysis of Spotify user music data, visualized 
 
    Albums like The New Abnormal and Abbey Road dominate listening preferences.
 
-#Streaming Trends by Year:
+# Streaming Trends by Year:
 
    Peaks in listening occurred in 2020 (55K minutes) and 2021 (54K minutes).
 
    A noticeable rise in engagement between 2016 and 2020.
 
-Skipped Tracks:
+# Skipped Tracks:
 
    Only 5% of tracks were skipped, showing high listening engagement.
 
-Platform Usage:
+# Platform Usage:
 
   Majority of streams were on Android (93%).
 
